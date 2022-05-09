@@ -1,0 +1,14 @@
+{
+  "name": "timecrowd-csv-format",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "YuskeNakajima",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
